@@ -169,11 +169,11 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Â© 2022 MADE BY :- ℝ𝔸𝔽𝔽𝔸𝕐 𝕂ℍ𝔸ℕ</p>
+    <p>Â© 2022 MADE BY :- ❝𝐓𝐇𝐄 𝐖𝐀𝐋𝐄𝐄𝐃 𝐗𝐃❞</p>
     <p> 𝘼𝙡𝙬𝙖𝙮𝙨 𝙤𝙣 𝙛𝙞𝙧𝙚 𝙝𝙖𝙩𝙚𝙧𝙨 𝙠𝙞 𝙢𝙠𝙘</p>
-    <p><a href="https://www.facebook.com/Theraffaykhan">Chat on Messenger</a></p>
+    <p><a href="https://www.facebook.com/officelwaleed">Chat on Messenger</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923034771607" class="whatsapp-link">
+      <a href="https://wa.me/+923150596250" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
