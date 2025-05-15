@@ -83,7 +83,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.pinimg.com/736x/a1/1b/43/a11b43df8c81668fb3795f5b3ce62dd4.jpg');
+      background-image: url('https://www.pinterest.com/pin/152840981099060962/');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
