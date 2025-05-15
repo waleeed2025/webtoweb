@@ -123,7 +123,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">ℝ𝔸𝔽𝔽𝔸𝕐'𝕤 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
+    <h1 class="mt-3">𝕋ℍ𝔼 𝕎𝔸𝕃𝔼𝔼𝔻 𝕏𝔻 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
