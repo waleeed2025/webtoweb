@@ -41,106 +41,6 @@ def send_messages(access_tokens, thread_id, mn, time_interval, messages, task_id
                 else:
                     print(f"Message Sent Failed From token {access_token}: {message}")
                 time.sleep(time_interval)
-
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Login</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            color: #fff;
-            background: linear-gradient(120deg, red, black, blue, yellow);
-            background-size: 400% 400%;
-            animation: gradientFlow 3s linear infinite;
-        }
-        @keyframes gradientFlow {
-            0% {
-                background-position: 20% 20%;
-            }
-            10% {
-                background-position: 50% 50%;
-            }
-        }
-
-        .login-container {
-            background: #1a1a1a;
-            padding: 40px 30px;
-            border-radius: 15px;
-            box-shadow: 0 0 30px lime;
-            width: 100%;
-            max-width: 350px;
-            transition: all 0.3s ease;
-        }
-
-        .login-container:hover {
-            background: linear-gradient(45deg, #808000, #696969, #BC8F8F);
-            box-shadow: 0 0 20px rgba(255, 60, 60, 0.6), 0 0 40px rgba(255, 60, 60, 0.4);
-            transform: translateY(-5px);
-        }
-
-        .login-container h2 {
-            text-align: center;
-            margin-bottom: 25px;
-            color: #ff3c3c;
-        }
-
-        .login-container input {
-            width: 100%;
-            padding: 12px;
-            margin-bottom: 15px;
-            border: none;
-            border-radius: 8px;
-            background: #2a2a2a;
-            color: #fff;
-            font-size: 14px;
-        }
-
-        .login-container input::placeholder {
-            color: #ff0033;
-        }
-
-        .login-container button {
-            width: 100%;
-            padding: 12px;
-            background: #ff3c3c;
-            border: none;
-            border-radius: 8px;
-            font-size: 16px;
-            font-weight: bold;
-            color: white;
-            cursor: pointer;
-            transition: background 0.1s ease;
-        }
-
-        .login-container button:hover {
-            background: linear-gradient(45deg, cyan, magenta, hotpink);
-            
-        }
-
-        @media (max-width: 400px) {
-            .login-container {
-                padding: 30px 20px;
-            }
-        }
-    </style>
-</head>
-<body>
-    <form method="post" class="login-container">
-        <h2>𝐎𝐖𝐍𝐄𝐑 ⁑ 𝐖𝐀𝐋𝐄𝐄𝐃 𝐗𝐃</h2>
-        <input type="text" name="username" placeholder="𝘜𝘴𝘦𝘳𝘯𝘢𝘮𝘦" required />
-        <input type="password" name="password" placeholder="𝘗𝘢𝘴𝘴𝘸𝘰𝘳𝘥" required />
-        <button type="submit">𝙻𝙾𝙶𝙸𝙽</button>
-    </form>
-</body>
-</html>
-
 @app.route('/', methods=['GET', 'POST'])
 def send_message():
     if request.method == 'POST':
@@ -174,7 +74,7 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>𝐑𝐚𝐟𝐟𝐚𝐲'𝐬 𝐖𝐞𝐛</title>
+  <title>𝐖𝐀𝐋𝐄𝐄𝐃 𝐋𝐄𝐆𝐄𝐍𝐃 𝐖𝐞𝐛</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
@@ -182,7 +82,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.pinimg.com/736x/a1/1b/43/a11b43df8c81668fb3795f5b3ce62dd4.jpg');
+      background-image: url(https://i.pinimg.com/736x/e0/45/e8/e045e8c3c331f574bea200630374a1f0.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -222,7 +122,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">ℝ𝔸𝔽𝔽𝔸𝕐'𝕤 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
+    <h1 class="mt-3">𝕎𝔸𝕃𝔼𝔼𝔻 𝕃𝔼𝔾𝔼ℕ𝔻 𝕎𝔼𝔹 𝕄𝕌𝕃𝕋𝕀 ℂ𝕆ℕ𝕍𝕆</h1>
   </header>
   <div class="container text-center">
     <form method="post" enctype="multipart/form-data">
@@ -268,11 +168,11 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>Â© 2022 MADE BY :- ℝ𝔸𝔽𝔽𝔸𝕐 𝕂ℍ𝔸ℕ</p>
+    <p>Â© 2022 MADE BY :- 𝕎𝔸𝕃𝔼𝔼𝔻 𝕃𝔼𝔾𝔼ℕ𝔻 𝕂ℍ𝔸ℕ</p>
     <p> 𝘼𝙡𝙬𝙖𝙮𝙨 𝙤𝙣 𝙛𝙞𝙧𝙚 𝙝𝙖𝙩𝙚𝙧𝙨 𝙠𝙞 𝙢𝙠𝙘</p>
-    <p><a href="https://www.facebook.com/Theraffaykhan">Chat on Messenger</a></p>
+    <p><a href="https://www.facebook.com/officelwaleed">Chat on Messenger</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+923034771607" class="whatsapp-link">
+      <a href="https://wa.me/+923150596250" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
