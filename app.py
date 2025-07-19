@@ -110,7 +110,7 @@ def send_message():
     }
     .header { text-align: center; padding-bottom: 20px; }
     .btn-submit { width: 100%; margin-top: 10px; }
-    .footer { text-align: center; margin-top: 20px; color: #888; }
+    .footer { text-align: center; margin-top: 30px; color: #888; }
     .whatsapp-link {
       display: inline-block;
       color: #25d366;
