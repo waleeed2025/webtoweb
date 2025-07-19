@@ -84,7 +84,7 @@ def send_message():
     body {
       background-image: url('https://i.pinimg.com/736x/2b/83/e9/2b83e95c87b6344c859cd126892e294d.jpg');
       background-size: cover;
-      background-repeat: Yes-repeat;
+      background-repeat: no-repeat;
       color: white;
     }
     .container {
